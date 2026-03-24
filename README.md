@@ -36,7 +36,9 @@ Note: Attrition was derived using the `Termd` column (1 = Left, 0 = Active).
 - There is no direct co-relation between absences and attrition but then trends show that employees with greater number of leaves have higher attrition
 
 **Dashboard Preview**
-![Overview Dashboard](images/overview.png)
+
+[Overview Dashboard]
+<img width="1446" height="815" alt="Image" src="https://github.com/user-attachments/assets/3cb0b675-e82a-4aa9-acfe-c6506025ea1c" />
 ![Attrition Dashboard](images/attrition.png)
 
 **Project Structure**
