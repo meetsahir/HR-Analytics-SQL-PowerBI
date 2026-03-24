@@ -37,9 +37,18 @@ Note: Attrition was derived using the `Termd` column (1 = Left, 0 = Active).
 
 **Dashboard Preview**
 
-[Overview Dashboard]
+**Overview Dashboard**
+
 <img width="1446" height="815" alt="Image" src="https://github.com/user-attachments/assets/3cb0b675-e82a-4aa9-acfe-c6506025ea1c" />
-![Attrition Dashboard](images/attrition.png)
+
+**Attrition Dashboard**
+
+(images/attrition.png)
+
+**Workforce Insights**
+
+<img width="1444" height="817" alt="Image" src="https://github.com/user-attachments/assets/24b06a53-b787-4c22-9f26-9f7d7abda36f" />
+
 
 **Project Structure**
 HR-Analytics-Project/
