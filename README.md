@@ -43,7 +43,7 @@ Note: Attrition was derived using the `Termd` column (1 = Left, 0 = Active).
 
 **Attrition Dashboard**
 
-(images/attrition.png)
+<img width="1441" height="807" alt="Image" src="https://github.com/user-attachments/assets/1bb2cf57-49b2-41d0-b555-ac602b1a9360" />
 
 **Workforce Insights**
 
